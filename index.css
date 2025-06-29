@@ -1,0 +1,24 @@
+h1{
+   color: rgb(233, 104, 104);
+   size: 20px;
+   font-size: 200px;
+   border: 5px solid;
+   width: 50%;
+   padding: 10%;
+   margin-bottom: 20px;
+   border-radius: 20px;
+   cursor: pointer;
+
+}
+p{
+    background-color: rgb(224, 185, 125);
+    text-align: center;
+    font-size: 200px;
+   text-decoration: underline;
+    
+    
+}
+h2{
+    font-family: sans-serif;
+    border: 20px;
+}
